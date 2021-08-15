@@ -13,10 +13,10 @@ Practice problems of HackerRank SQL challenges executed via MySql environment.
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Sql](Basic%20Select/Revising-the-select-Query-1.sql)
-| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Sql](Basic%20Select/Revising-the-select-Query-2.sql)
-| 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Sql](Basic%20Select/Select-All.sql)
-| 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Sql](Basic%20Select/Select-By-ID.sql)
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Sql](Basic%20Select/Revising%20the%20Select%20Query%20I.sql)
+| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Sql](Basic%20Select/Revising%20the%20Select%20Query%20II.sql)
+| 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Sql](Basic%20Select/Select%20All.sql)
+| 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Sql](Basic%20Select/Select%20By%20ID.sql)
 | 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Sql](Basic%20Select/Japanese-Cities'-Attributes.sql)
 | 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Sql](Basic%20Select/Japanese-Cities'-Names.sql)
 | 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Sql](Basic%20Select/Weather-Observation-Station-1.sql)
