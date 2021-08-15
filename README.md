@@ -76,6 +76,3 @@ Practice problems of HackerRank SQL challenges executed via MySql environment.
 | 4 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | [Sql](Basic%20Join/The%20Report.sql) |
 | 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Sql](Basic%20Join/Top%20Competitors.sql) |
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Sql](Basic%20Join/Ollivander's%20Inventory.sql) |
-
-## References
-* [Resources](Resources.md)
