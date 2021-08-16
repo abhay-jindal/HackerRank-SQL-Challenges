@@ -48,9 +48,9 @@ Practice problems of HackerRank SQL challenges executed via MySql environment.
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Sql](Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql) | 
-| 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Sql](Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)                    |
-| 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Sql](Aggregation/Revising%20Aggregations%20-%20Averages.sql)                       |
+| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Sql](Aggregation/The%20Count%20Function.sql) | 
+| 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Sql](Aggregation/The%20Sum%20Function.sql)                    |
+| 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Sql](Aggregation/The%20Average%20Functions.sql)                       |
 | 4 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Sql](Aggregation/Average%20Population.sql)                                                                               |
 | 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Sql](Aggregation/Japan%20Population.sql)                                                                                     |
 | 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Sql](Aggregation/Population%20Density%20Difference.sql)                                            |
