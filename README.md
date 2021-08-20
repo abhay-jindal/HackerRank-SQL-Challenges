@@ -81,3 +81,4 @@ Practice problems of HackerRank SQL challenges executed via MySql environment.
 ## References
 
 - [SQLBolt: Learn SQL with simple, interactive exercises.](https://sqlbolt.com/)
+- [The SQL Tutorial for Data Analysis by Mode](https://mode.com/sql-tutorial/introduction-to-sql/)
